@@ -6,7 +6,7 @@ import java.net.http.HttpClient;
 import java.net.http.HttpRequest;
 import java.net.http.HttpResponse;
 
-public class CurrencyConverterAPI {
+public class ConversorAPI {
     private static final String API_KEY = "2cc421d1b5ab6c64089166d2";
 
     public static double convertir(String from, String to, double amount) {

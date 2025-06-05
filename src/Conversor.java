@@ -38,7 +38,7 @@ public class Conversor {
             double cantidad = scanner.nextDouble();
             scanner.nextLine(); // limpiar
 
-            double resultado = CurrencyConverterAPI.convertir(from, to, cantidad);
+            double resultado = ConversorAPI.convertir(from, to, cantidad);
             System.out.printf("💱 %.2f %s son %.2f %s\n\n", cantidad, from, resultado, to);
 
             // Guardar en el historial
