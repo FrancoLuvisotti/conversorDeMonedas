@@ -30,9 +30,9 @@ Incluye historial de conversiones con fecha y hora, guardado en archivo local.
 
 ## 📦 Cómo ejecutar
 Puedes ejecutar el programa desde tu IDE favorito o por terminal:
-1. javac Conversor.java
+javac Conversor.java
 o
-2.java ConversorAPI
+java ConversorAPI
 
 ## 📸 Ejemplo de uso
 
